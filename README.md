@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
 - Live Site URL: [GitHub Pages](https://thethomasy.github.io/FrontEndMentor-stats_preview_card/)
 
 ## Author
