@@ -5,12 +5,17 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Table of contents
 
 - [Overview](#overview)
+  - [Links](#links)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [Author](#author)
 
 ## Overview
+
+### Links
+
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [GitHub Pages](https://thethomasy.github.io/Stats-Preview-Card/)
 
 ### The challenge
 
@@ -22,10 +27,6 @@ Users should be able to:
 
 ![](./images/Screenshot.png)
 
-### Links
-
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [GitHub Pages](https://thethomasy.github.io/FrontEndMentor-stats_preview_card/)
 
 ## Author
 
